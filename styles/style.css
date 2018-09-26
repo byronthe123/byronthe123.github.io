@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body {
+    background-image: url('../img/background-image.jpg');
+}
+#div_content1{
+    color: white;
+}
